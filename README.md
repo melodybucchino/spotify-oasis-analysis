@@ -18,15 +18,16 @@ The notebook contains:
 - **Best chart rank:** Week of August 07, 2025 with rank 89.
 - **Total growth in streams since tour start**: 9.65%
 
-Visualizations show clear spikes around tour dates, illustrating the impact of live events on streaming.
+> Visualizations show clear spikes around tour dates, illustrating the impact of live events on streaming.
 
 ---
 
 ## Repository Structure
-
+```
 notebooks/
 └── oasis_analysis.ipynb # Main notebook with plots and insights
 README.md # This file
+```
 
 
 ## Notes
