@@ -24,7 +24,7 @@ The notebook contains:
 
 ## Repository Structure
 ```
-notebooks/
+notebook/
 └── oasis_analysis.ipynb # Main notebook with plots and insights
 README.md # This file
 ```
